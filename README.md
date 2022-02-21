@@ -1,17 +1,3 @@
-# calculator
+# Calculator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# calculator
+UI/UX Design(idea) - https://dribbble.com/shots/8639225-Calculator-App-Light-Dark?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Calculator+App%3A+Light+%26+Dark&utm_medium=Social_Share
